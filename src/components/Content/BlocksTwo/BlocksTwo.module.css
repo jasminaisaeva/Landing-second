@@ -1,0 +1,50 @@
+.Blocks {
+  width: 724px;
+  height: 248px;
+  border-top-left-radius: 25px;
+  margin-right: 90px;
+}
+.Main {
+  display: flex;
+  justify-content: space-around;
+  left: -100px;
+  position: absolute;
+  top: 1400px;
+}
+.title {
+  font-family: "Druk Wide";
+  font-style: normal;
+  font-size: 40px;
+  line-height: 52px;
+  margin: 40px 0 0 58px;
+  padding-bottom: 10px;
+  color: #c4c4c4;
+}
+.title1 {
+  font-family: "Arial", "Helvetica", sans-serif;
+
+  padding-left: 58px;
+  padding-top: 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 27px;
+  line-height: 31px;
+  color: #000000;
+  width: 224px;
+  /* height: 25px;  */
+}
+
+.title2 {
+  width: 315px;
+  height: 56px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  color: #1f2326;
+  padding: 50px;
+  margin-right: 200px;
+  padding-left: 58px;
+}
