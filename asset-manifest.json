@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Landing-second/static/css/main.c17f9d9f.chunk.css",
+    "main.js": "/Landing-second/static/js/main.9e92d0db.chunk.js",
+    "main.js.map": "/Landing-second/static/js/main.9e92d0db.chunk.js.map",
+    "runtime-main.js": "/Landing-second/static/js/runtime-main.61924c2d.js",
+    "runtime-main.js.map": "/Landing-second/static/js/runtime-main.61924c2d.js.map",
+    "static/js/2.3c6042aa.chunk.js": "/Landing-second/static/js/2.3c6042aa.chunk.js",
+    "static/js/2.3c6042aa.chunk.js.map": "/Landing-second/static/js/2.3c6042aa.chunk.js.map",
+    "index.html": "/Landing-second/index.html",
+    "static/css/main.c17f9d9f.chunk.css.map": "/Landing-second/static/css/main.c17f9d9f.chunk.css.map",
+    "static/js/2.3c6042aa.chunk.js.LICENSE.txt": "/Landing-second/static/js/2.3c6042aa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Landing-second/static/media/a.13e226fa.png",
+    "static/media/Content.module.css": "/Landing-second/static/media/main page.36f77e74.png",
+    "static/media/pic1.44f25dcb.png": "/Landing-second/static/media/pic1.44f25dcb.png",
+    "static/media/pic2.78b730fb.png": "/Landing-second/static/media/pic2.78b730fb.png",
+    "static/media/pic3.47b9db57.png": "/Landing-second/static/media/pic3.47b9db57.png",
+    "static/media/pic4.9c12e4c3.png": "/Landing-second/static/media/pic4.9c12e4c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61924c2d.js",
+    "static/js/2.3c6042aa.chunk.js",
+    "static/css/main.c17f9d9f.chunk.css",
+    "static/js/main.9e92d0db.chunk.js"
+  ]
+}
